@@ -1,0 +1,6 @@
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\bin\Debug\FlightBooking.Core.dll
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\bin\Debug\FlightBooking.Core.pdb
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\obj\Debug\FlightBooking.Core.csproj.AssemblyReference.cache
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\obj\Debug\FlightBooking.Core.csproj.CoreCompileInputs.cache
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\obj\Debug\FlightBooking.Core.dll
+C:\Users\ramarr\Downloads\HymansCleanCodeChallenge\FlightBookingProblem\FlightBooking.Core\obj\Debug\FlightBooking.Core.pdb
